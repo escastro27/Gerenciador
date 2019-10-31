@@ -14,16 +14,22 @@
         - [PUT /api/v1/usuarios]
         - [POST /api/v1/usuarios/]
         - [DELETE /usuarios/{id}]
+        
+        
         Perfil:
          - [GET /api/v1/perfis]
          - [GET /api/v1/perfis/{id}]
          - [POST /api/v1/perfis/]
          - [DELETE /perfil/{id}]
+         
+         
          Cargo:
          - [GET /api/v1/cargos]
          - [GET /api/v1/cargos/{id}]
          - [POST /api/v1/cargos/]
          - [DELETE /cargo/{id}] 
+         
+         
          Status:
          - [GET /api/v1/status]
          - [GET /api/v1/status/{id}]
